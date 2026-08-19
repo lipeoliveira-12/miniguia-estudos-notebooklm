@@ -7,3 +7,7 @@ Para começar, precisei pesquisar um pouco sobre hard e softskills, para isso co
 
 **"Preciso criar um projeto de estudo sobre as principais hard skills e softs skills do mercado de trabalho que são valorizadas, não precisa estar listado em ordem de importância. Me diga fontes, livros, vídeos e qualquer outro tipo de conteúdo que eu possa utilizar para aprender mais sobre esses assuntos."**
 
+Os resultados mais interessantes saíram do ChatGPT e do Claude onde no primeiro obtive uma resposta bem mais completa com o mesmo prompt. Primeiro dividiu em áreas e assuntos que eu poderia estudar separando em hard e softskills, depois me disponibilizou links de vídeos, livros, cursos, fontes estrangeiras e brasileiras que falam sobre essas habilidades, e por fim ainda me sugeriu estudar AI skills.
+
+O claude por sua vez, me deu uma resposta com uma agradabilidade muito boa também, com uma estrutura de resposta parecida com a do ChatGPT porém com um diferencial. Por conta de eu anteriormente já ter utilizado o claude para aprender sobre banco de dados e afins, ele me incentivou continuar estudando essa área e me disse que um pom próximo passo seria alinhar esses estudo em banco de dados com a habilidade de comunicação, dando um exemplo de apresentar para alguém um banco de dados sem nenhum contexto ou apresentar alguma outra hardskill que eu estiver desenvolvendo para algum amigo.
+
