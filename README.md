@@ -11,3 +11,5 @@ Os resultados mais interessantes saíram do ChatGPT e do Claude onde no primeiro
 
 O claude por sua vez, me deu uma resposta com uma agradabilidade muito boa também, com uma estrutura de resposta parecida com a do ChatGPT porém com um diferencial. Por conta de eu anteriormente já ter utilizado o claude para aprender sobre banco de dados e afins, ele me incentivou continuar estudando essa área e me disse que um pom próximo passo seria alinhar esses estudo em banco de dados com a habilidade de comunicação, dando um exemplo de apresentar para alguém um banco de dados sem nenhum contexto ou apresentar alguma outra hardskill que eu estiver desenvolvendo para algum amigo.
 
+Assim que terminei de ler as respostas, identifiquei fontes que continham bastante informações e informações úteis para e copiei os links delas, segue elas abaixo:
+https://www.weforum.org/publications/the-future-of-jobs-report-2025
