@@ -126,4 +126,5 @@ Ou então, quem preferir pode usar a própria ferramenta de teste do NotebookLM,
 ## Link NotebookLM
 
 Para quem quiser acessar o notebook, estarei disponibilizando aqui o link, espero que ajude assim como esse projeto com certeza me ajudou a me desenvolver!
+
 link: [https://notebook.google.com/notebook/86a61aa9-8a66-4f62-8ef3-51df50cb317f]
