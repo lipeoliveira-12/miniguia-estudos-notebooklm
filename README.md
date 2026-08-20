@@ -22,4 +22,9 @@ https://inovasocial.com.br/inova/relatorio-futuro-trabalho-2030/#:~:text=O%20rel
 https://www.coursera.org/skills-reports/job-skills-2025?utm_source=chatgpt.com <br>
 https://www.coursera.org/business/resources/ebook/global-skills-report-ptg <br>
 
-Após ter colocado essas fontes quis utilizar 
+Após ter colocado essas fontes quis utilizar o NotebookLM um pouco melhor e fiz um deepresearch com o seguinte prompt:
+
+**Procure por sites que expliquem o que são hardskills e softskills, diga quais que estão em alta no mercado de trabalho em geral e cite as mais procuradas na área de tecnologia**
+
+Depois de um certo tempo de espera o NotebookLM me voltou 30 fontes além das que eu já tinha colocado, porém vale ressaltar que me trouxe 2 fontes incompatíveis devido a um problema de restrição da fonte.<img width="309" height="378" alt="Captura de tela 2026-08-17 094941" src="https://github.com/user-attachments/assets/2b1b3965-f42a-483e-b3fe-fb32ac1046ae" />
+
