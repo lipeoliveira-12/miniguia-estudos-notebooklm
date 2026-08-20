@@ -21,3 +21,5 @@ https://www.weforum.org/publications/the-future-of-jobs-report-2025 <br>
 https://inovasocial.com.br/inova/relatorio-futuro-trabalho-2030/#:~:text=O%20relat%C3%B3rio%20Future%20of%20Jobs%202025%2C%20do,O%20que%20muda%20quando%20o%20mundo%20acelera%3F <br>
 https://www.coursera.org/skills-reports/job-skills-2025?utm_source=chatgpt.com <br>
 https://www.coursera.org/business/resources/ebook/global-skills-report-ptg <br>
+
+Após ter colocado essas fontes quis utilizar 
