@@ -26,5 +26,7 @@ Após ter colocado essas fontes quis utilizar o NotebookLM um pouco melhor e fiz
 
 **Procure por sites que expliquem o que são hardskills e softskills, diga quais que estão em alta no mercado de trabalho em geral e cite as mais procuradas na área de tecnologia**
 
-Depois de um certo tempo de espera o NotebookLM me voltou 30 fontes além das que eu já tinha colocado, porém vale ressaltar que me trouxe 2 fontes incompatíveis devido a um problema de restrição da fonte.<img width="309" height="378" alt="Captura de tela 2026-08-17 094941" src="https://github.com/user-attachments/assets/2b1b3965-f42a-483e-b3fe-fb32ac1046ae" />
+Depois de um certo tempo de espera o NotebookLM me voltou 30 fontes além das que eu já tinha colocado, porém vale ressaltar que me trouxe 2 fontes incompatíveis devido a um problema de restrição da fonte:
+
+<img width="507" height="100" alt="Captura de tela 2026-08-18 084508" src="https://github.com/user-attachments/assets/40f511fd-f46c-4304-bdd9-c6ec9895c78d" />
 
