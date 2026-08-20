@@ -122,3 +122,8 @@ Plano de Ação Técnico: "Crie um roteiro prático de 4 semanas para eu desenvo
 Quiz de Fixação: "Crie um quiz de 5 perguntas de múltipla escolha sobre o livro [Nome do Livro] focando em como aplicar seus ensinamentos no ambiente de trabalho."
 
 Ou então, quem preferir pode usar a própria ferramenta de teste do NotebookLM, onde se pode customizar quantas questões o teste vai ter, dificuldade e o tema do teste baseado nas fontes que você mesmo importou.
+
+## Link NotebookLM
+
+Para quem quiser acessar o notebook, estarei disponibilizando aqui o link, espero que ajude assim como esse projeto com certeza me ajudou a me desenvolver!
+link: [https://notebook.google.com/notebook/86a61aa9-8a66-4f62-8ef3-51df50cb317f]
