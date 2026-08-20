@@ -113,12 +113,12 @@ Os 7 Hábitos das Pessoas Altamente Eficazes (Stephen Covey) e O Poder do Hábit
 
 Como Fazer Amigos e Influenciar Pessoas (Dale Carnegie): Ensina a construir relacionamentos saudáveis e melhorar a comunicação pessoal.
 
-## Possíveis prompts que podem ser usados para revisão.
+## Possíveis prompts que podem ser usados para revisão
 
-Prompt para Treino de Entrevista: "Atue como um recrutador de tecnologia. Me faça 3 perguntas comportamentais para avaliar minha [Soft Skill] e avalie minhas respostas."
+Treino de Entrevista: "Atue como um recrutador de tecnologia. Me faça 3 perguntas comportamentais para avaliar minha [Soft Skill] e avalie minhas respostas."
 
-Prompt para Plano de Ação Técnico: "Crie um roteiro prático de 4 semanas para eu desenvolver a Hard Skill [Nome da Hardskill] do nível iniciante ao intermediário."
+Plano de Ação Técnico: "Crie um roteiro prático de 4 semanas para eu desenvolver a Hard Skill [Nome da Hardskill] do nível iniciante ao intermediário."
 
-Prompt para Quiz de Fixação: "Crie um quiz de 5 perguntas de múltipla escolha sobre o livro [Nome do Livro] focando em como aplicar seus ensinamentos no ambiente de trabalho."
+Quiz de Fixação: "Crie um quiz de 5 perguntas de múltipla escolha sobre o livro [Nome do Livro] focando em como aplicar seus ensinamentos no ambiente de trabalho."
 
-Ou emtão, quem preferir pode usar a própria ferramenta de teste do NotebookLM, onde se pode customizar quantas questões o teste vai ter, dificuldade e o tema do teste baseado nas fontes que você mesmo importou
+Ou então, quem preferir pode usar a própria ferramenta de teste do NotebookLM, onde se pode customizar quantas questões o teste vai ter, dificuldade e o tema do teste baseado nas fontes que você mesmo importou
