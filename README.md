@@ -46,7 +46,15 @@ Assim que adicionei as fontes que o prompt me voltou, o resultado foi bem mais a
 
 <img width="5337" height="3136" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/5208ddfc-4e99-47a9-8400-11edeb5e19d7" />
 
-## Conceitos
+## Resumo
+
+### Principais conceitos
+
+. Hard Skills: Competências técnicas mensuráveis e adquiridas por treinamento.
+. Soft Skills: Habilidades comportamentais e sócio-emocionais inerentes às relações interpessoais.
+. Inteligência Emocional: Capacidade de reconhecer, compreender e gerenciar emoções próprias e alheias.
+. Transição Gêmea (Twin Transition): Convergência estratégica entre transformação digital e sustentabilidade ecológica.
+. Human-in-the-loop: Modelo onde a validação e supervisão humana são inseridas nos processos automatizados por IA.
 
 ### Hardskills (Competências Técnicas)
 São conhecimentos específicos, estruturados e mensuráveis exigidos para realizar tarefas de trabalho concretas. São adquiridas por educação formal, cursos práticos e certificações. Representam o "motor" de um profissional no mercado.
@@ -100,3 +108,13 @@ Comunicação Não-Violenta (Marshall Rosenberg): Guia prático de empatia e con
 Os 7 Hábitos das Pessoas Altamente Eficazes (Stephen Covey) e O Poder do Hábito (Charles Duhigg): Auxiliam na transformação de paradigmas comportamentais e hábitos de alta performance.
 
 Como Fazer Amigos e Influenciar Pessoas (Dale Carnegie): Ensina a construir relacionamentos saudáveis e melhorar a comunicação pessoal.
+
+## Possíveis prompts que podem ser usados para revisão.
+
+Prompt para Treino de Entrevista: "Atue como um recrutador de tecnologia. Me faça 3 perguntas comportamentais para avaliar minha [Soft Skill] e avalie minhas respostas."
+
+Prompt para Plano de Ação Técnico: "Crie um roteiro prático de 4 semanas para eu desenvolver a Hard Skill [Nome da Hardskill] do nível iniciante ao intermediário."
+
+Prompt para Quiz de Fixação: "Crie um quiz de 5 perguntas de múltipla escolha sobre o livro [Nome do Livro] focando em como aplicar seus ensinamentos no ambiente de trabalho."
+
+Ou emtão, quem preferir pode usar a própria ferramenta de teste do NotebookLM, onde se pode customizar quantas questões o teste vai ter, dificuldade e o tema do teste baseado nas fontes que você mesmo importou
