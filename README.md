@@ -42,6 +42,8 @@ No primeiro resultado, a IA não me trouxe livros para as softskills mesmo eu pe
 
 **Procure pelas principais hard e softskills em que estão sendo mais procuradas no mercado de trabalho e que estão mais envolvidas e cobradas em vagas de tecnologia e procure por livros que ajudem a desenvolver elas e como praticá-las**
 
+
+
 Assim que adicionei as fontes que o prompt me voltou, o resultado foi bem mais agradável:
 
 <img width="5337" height="3136" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/5208ddfc-4e99-47a9-8400-11edeb5e19d7" />
