@@ -48,13 +48,17 @@ Assim que adicionei as fontes que o prompt me voltou, o resultado foi bem mais a
 
 ## Resumo
 
-### Principais conceitos
+### Principais conceitos estudados nesse guia
 
-.Hard Skills: Competências técnicas mensuráveis e adquiridas por treinamento.
-.Soft Skills: Habilidades comportamentais e sócio-emocionais inerentes às relações interpessoais.
-.Inteligência Emocional: Capacidade de reconhecer, compreender e gerenciar emoções próprias e alheias.
-.Transição Gêmea (Twin Transition): Convergência estratégica entre transformação digital e sustentabilidade ecológica.
-.Human-in-the-loop: Modelo onde a validação e supervisão humana são inseridas nos processos automatizados por IA.
+Hard Skills: Competências técnicas mensuráveis e adquiridas por treinamento.
+
+Soft Skills: Habilidades comportamentais e sócio-emocionais inerentes às relações interpessoais.
+
+Inteligência Emocional: Capacidade de reconhecer, compreender e gerenciar emoções próprias e alheias.
+
+Transição Gêmea (Twin Transition): Convergência estratégica entre transformação digital e sustentabilidade ecológica.
+
+Human-in-the-loop: Modelo onde a validação e supervisão humana são inseridas nos processos automatizados por IA.
 
 ### Hardskills (Competências Técnicas)
 São conhecimentos específicos, estruturados e mensuráveis exigidos para realizar tarefas de trabalho concretas. São adquiridas por educação formal, cursos práticos e certificações. Representam o "motor" de um profissional no mercado.
