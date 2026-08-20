@@ -1,7 +1,7 @@
 # miniguia-estudos-notebooklm
 ## Guia de estudos sobre IA
 
-Sabendo da importância de se desenvolver habilidades para se destacar no mercado de trabalho decidi criar um NotebookLM para estudar mais sobre hardskills e softskills com o objetivo de adquirir mais conhecimentos sobre essas habilidades e como posso aprimorá-las até obter um desenvolvimento considerável nas que mais combinam com o meu ramo de trabalho.
+Sabendo da importância de se desenvolver habilidades para se destacar no mercado de trabalho decidi, criar um NotebookLM para estudar mais sobre hardskills e softskills com o objetivo de adquirir mais conhecimentos sobre essas habilidades e como posso aprimorá-las até obter um desenvolvimento considerável nas que mais combinam com o meu ramo de trabalho.
 
 ## Pesquisas
 
@@ -9,9 +9,9 @@ Para começar, precisei pesquisar um pouco sobre hard e softskills, para isso co
 
 **"Preciso criar um projeto de estudo sobre as principais hard skills e softs skills do mercado de trabalho que são valorizadas, não precisa estar listado em ordem de importância. Me diga fontes, livros, vídeos e qualquer outro tipo de conteúdo que eu possa utilizar para aprender mais sobre esses assuntos."**
 
-Os resultados mais interessantes saíram do ChatGPT e do Claude onde no primeiro obtive uma resposta bem mais completa com o mesmo prompt. Primeiro dividiu em áreas e assuntos que eu poderia estudar separando em hard e softskills, depois me disponibilizou links de vídeos, livros, cursos, fontes estrangeiras e brasileiras que falam sobre essas habilidades, e por fim ainda me sugeriu estudar AI skills.
+Os resultados mais interessantes saíram do ChatGPT e do Claude onde no primeiro obtive uma resposta bem mais completa com o mesmo prompt. Primeiro ele dividiu em áreas e assuntos que eu poderia estudar separando em hard e softskills, depois me disponibilizou links de vídeos, livros, cursos, fontes estrangeiras e brasileiras que falam sobre essas habilidades, e por fim ainda me sugeriu estudar AI skills.
 
-O claude por sua vez, me deu uma resposta com uma agradabilidade muito boa também, com uma estrutura de resposta parecida com a do ChatGPT porém com um diferencial. Por conta de eu anteriormente já ter utilizado o claude para aprender sobre banco de dados e afins, ele me incentivou continuar estudando essa área e me disse que um pom próximo passo seria alinhar esses estudo em banco de dados com a habilidade de comunicação, dando um exemplo de apresentar para alguém um banco de dados sem nenhum contexto ou apresentar alguma outra hardskill que eu estiver desenvolvendo para algum amigo.
+O claude por sua vez, me deu uma resposta com uma agradabilidade muito boa também, com uma estrutura de resposta parecida com a do ChatGPT porém com um diferencial. Por conta de eu anteriormente já ter utilizado o claude para aprender sobre banco de dados e afins, ele me incentivou continuar estudando essa área e me disse que um bom próximo passo seria alinhar esses estudo em banco de dados com a habilidade de comunicação, dando um exemplo de apresentar para alguém um banco de dados sem nenhum contexto ou apresentar alguma outra hardskill que eu estiver desenvolvendo para algum amigo.
 
 ## Gemini NotebookLM
 
@@ -96,7 +96,6 @@ Adaptabilidade, Resiliência e Agilidade: A adaptabilidade é apontada por 85% d
 Inteligência Emocional: É a capacidade de identificar, compreender e gerenciar suas próprias emoções e as dos outros. Empresas que analisam metodologicamente o perfil de inteligência emocional de seus candidatos registram redução de 23% na rotatividade de funcionários (turnover) e aumento de 31% no engajamento.
 
 #### Como desenvolver (Literatura recomendada baseada nos mapas mentais)
-
 Inteligência Emocional / Trabalhando com a Inteligência Emocional (Daniel Goleman): Essencial para entender o impacto do controle emocional e da empatia nas tomadas de decisão e liderança.
 
 Permissão para Sentir (Marc Brackett): Fornece um modelo baseado em evidências científicas para reconhecer, rotular e regular emoções.
@@ -114,6 +113,7 @@ Os 7 Hábitos das Pessoas Altamente Eficazes (Stephen Covey) e O Poder do Hábit
 Como Fazer Amigos e Influenciar Pessoas (Dale Carnegie): Ensina a construir relacionamentos saudáveis e melhorar a comunicação pessoal.
 
 ## Possíveis prompts que podem ser usados para revisão
+Os prompts a seguir são bastante úteis para quem quer testar os conhecimentos após um estudo sobre hard e softskills ou pra fixar o conteúdo de um livro recomendado pelo NotebookLM:
 
 Treino de Entrevista: "Atue como um recrutador de tecnologia. Me faça 3 perguntas comportamentais para avaliar minha [Soft Skill] e avalie minhas respostas."
 
@@ -121,4 +121,4 @@ Plano de Ação Técnico: "Crie um roteiro prático de 4 semanas para eu desenvo
 
 Quiz de Fixação: "Crie um quiz de 5 perguntas de múltipla escolha sobre o livro [Nome do Livro] focando em como aplicar seus ensinamentos no ambiente de trabalho."
 
-Ou então, quem preferir pode usar a própria ferramenta de teste do NotebookLM, onde se pode customizar quantas questões o teste vai ter, dificuldade e o tema do teste baseado nas fontes que você mesmo importou
+Ou então, quem preferir pode usar a própria ferramenta de teste do NotebookLM, onde se pode customizar quantas questões o teste vai ter, dificuldade e o tema do teste baseado nas fontes que você mesmo importou.
