@@ -42,8 +42,23 @@ No primeiro resultado, a IA não me trouxe livros para as softskills mesmo eu pe
 
 **Procure pelas principais hard e softskills em que estão sendo mais procuradas no mercado de trabalho e que estão mais envolvidas e cobradas em vagas de tecnologia e procure por livros que ajudem a desenvolver elas e como praticá-las**
 
-
-
 Assim que adicionei as fontes que o prompt me voltou, o resultado foi bem mais agradável:
 
 <img width="5337" height="3136" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/5208ddfc-4e99-47a9-8400-11edeb5e19d7" />
+
+## Conceitos
+
+### Hardskills (Competências Técnicas): São conhecimentos específicos, estruturados e mensuráveis exigidos para realizar tarefas de trabalho concretas
+. São adquiridas por educação formal, cursos práticos e certificações
+. Representam o "motor" de um profissional no mercado.
+
+#### Hardskills em alta
+No ramo da tecnologia, o mercado exige competências focadas na infraestrutura inteligente e na governança de dados:
+
+Letramento em Inteligência Artificial e Dados: A busca por especialização em IA generativa registrou um aumento de 234% entre alunos corporativos. Profissionais técnicos devem dominar engenharia de prompts, MLOps e integração de LLMs
+
+Cibersegurança e Redes: Profissionais de segurança atuam como o sistema imune da infraestrutura digital.Há alta demanda por competências em cibersegurança defensiva, SOC e conformidade de rede
+
+Computação em Nuvem (Cloud Computing): Domínio de plataformas como AWS, Azure e Google Cloud tornou-se requisito básico e obrigatório
+
+A "Transição Gêmea" (Twin Transition): Trata-se da convergência entre as competências digitais e ecológicas (Competências Verdes). Profissionais de tecnologia que dominam a eficiência energética para data centers, contabilidade de carbono e gerenciamento de resíduos estão no topo das contratações.
