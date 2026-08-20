@@ -17,10 +17,10 @@ O claude por sua vez, me deu uma resposta com uma agradabilidade muito boa tamb�
 
 Assim que terminei de ler as respostas, identifiquei fontes que continham bastante informações e informações úteis além de um pdf que estava disponível no link do weforum.org, segue a lista de links utilizados abaixo:
 
-https://www.weforum.org/publications/the-future-of-jobs-report-2025 <br>
-https://inovasocial.com.br/inova/relatorio-futuro-trabalho-2030/#:~:text=O%20relat%C3%B3rio%20Future%20of%20Jobs%202025%2C%20do,O%20que%20muda%20quando%20o%20mundo%20acelera%3F <br>
-https://www.coursera.org/skills-reports/job-skills-2025?utm_source=chatgpt.com <br>
-https://www.coursera.org/business/resources/ebook/global-skills-report-ptg <br>
+1. https://www.weforum.org/publications/the-future-of-jobs-report-2025 <br>
+2. https://inovasocial.com.br/inova/relatorio-futuro-trabalho-2030/#:~:text=O%20relat%C3%B3rio%20Future%20of%20Jobs%202025%2C%20do,O%20que%20muda%20quando%20o%20mundo%20acelera%3F <br>
+3. https://www.coursera.org/skills-reports/job-skills-2025?utm_source=chatgpt.com <br>
+4. https://www.coursera.org/business/resources/ebook/global-skills-report-ptg <br>
 
 Após ter colocado essas fontes quis utilizar o NotebookLM um pouco melhor e fiz um deepresearch com o seguinte prompt:
 
@@ -30,3 +30,18 @@ Depois de um certo tempo de espera o NotebookLM me voltou 30 fontes além das qu
 
 <img width="507" height="100" alt="Captura de tela 2026-08-18 084508" src="https://github.com/user-attachments/assets/40f511fd-f46c-4304-bdd9-c6ec9895c78d" />
 
+Ou seja, por mais que a procura do NotebookLM seja bastante útil e auxilia bastante na hora de encontrar novas fontes para o seu notebook, ela ainda traz fontes que o próprio NotebookLM não consegue utilizar o que a depender dos casos pode ser um pouco chato de lidar mas nada muito assustador.
+
+### Mapa mental NotebookLM
+
+O NotebookLM tem várias opções de fixação de conteúdo como apresentação de slides ou criação de vídeo, porém o que mais me chamou atenção foi a opção de mapa mental que para o assunto de hard e softskills particularmente acho que combina mais. Então, querendo explorar essa opção um pouco mais, coloquei o seguinte prompt para o notebook fazer um mapa mental para mim:
+
+**Crie um mapa um mental citando as hardskills e softskills mais procuradas e em ascensão no mercado de trabalho. Para as softskills cite os principais livros que ajudam a desenvolver cada uma delas e para as hardskills cite canais de youtube e cursos onde se pode praticá-las.**
+
+No primeiro resultado, a IA não me trouxe livros para as softskills mesmo eu pedindo. Logo pensei que o problema fosse por conta das fontes, então usei a pesquisa do NotebookLM para procurar livros e vídeos que falassem sobre hard e softskills com o prompt: 
+
+**Procure pelas principais hard e softskills em que estão sendo mais procuradas no mercado de trabalho e que estão mais envolvidas e cobradas em vagas de tecnologia e procure por livros que ajudem a desenvolver elas e como praticá-las**
+
+Assim que adicionei as fontes que o prompt me voltou, o resultado foi bem mais agradável:
+
+<img width="5337" height="3136" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/5208ddfc-4e99-47a9-8400-11edeb5e19d7" />
